@@ -88,7 +88,7 @@ export default function Contact() {
             </p>
             <p className="mt-4 text-sm leading-relaxed text-zinc-400 md:text-base">
               Whether it's a 30-second spot or a stadium-scale live show, I bring
-              the same precision — creative vision locked from first brief to final
+              the same precision - creative vision locked from first brief to final
               delivery.
             </p>
             <div className="mt-8 flex flex-col gap-4 sm:flex-row">

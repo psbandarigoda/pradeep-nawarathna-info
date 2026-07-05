@@ -58,7 +58,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     id: 6,
     title: "Instagram Reel",
-    role: "Amore Clothing Brand — Script and Director",
+    role: "Amore Clothing Brand - Script and Director",
     platform: "instagram",
     url: "https://www.instagram.com/reel/DE9kgXZuhYq/?igsh=ZzRjNXc2Zmw1bDds",
     loved: true,
@@ -66,7 +66,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     id: 7,
     title: "Instagram Reel",
-    role: "Mobile Advertising — Concept and Director",
+    role: "Mobile Advertising - Concept and Director",
     platform: "instagram",
     url: "https://www.instagram.com/reel/DDhf8ztNzzR/?igsh=MTQzenowODF5Mm1mMA==",
     loved: true,

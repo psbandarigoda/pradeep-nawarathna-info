@@ -66,7 +66,7 @@ export default function Hero() {
               <div className="relative aspect-square">
                 <Image
                   src={profile.image}
-                  alt={`${profile.name} — ${profile.title}`}
+                  alt={`${profile.name} - ${profile.title}`}
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 448px"

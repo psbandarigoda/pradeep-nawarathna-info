@@ -27,11 +27,23 @@ export const metadata: Metadata = {
     "Lyrics Writer",
     "Event Manager",
   ],
+  icons: {
+    icon: "/images/pradeep-nawarathne.png",
+    apple: "/images/pradeep-nawarathne.png",
+  },
   openGraph: {
     title: "Pradeep Nawarathne | Creative Director",
     description:
-      "I build and direct stories at scale — commercials, music videos, live events, and branded entertainment.",
+      "I build and direct stories at scale - commercials, music videos, live events, and branded entertainment.",
     type: "website",
+    images: [
+      {
+        url: "/images/pradeep-nawarathne.png",
+        width: 1200,
+        height: 1200,
+        alt: "Pradeep Nawarathne - Creative Director",
+      },
+    ],
   },
 };
 

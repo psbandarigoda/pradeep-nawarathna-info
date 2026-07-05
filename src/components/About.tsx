@@ -27,7 +27,7 @@ export default function About() {
                 <div className="relative aspect-[4/5]">
                   <Image
                     src={profile.image}
-                    alt={`${profile.name} — ${profile.title}`}
+                    alt={`${profile.name} - ${profile.title}`}
                     fill
                     sizes="(max-width: 1024px) 320px, 360px"
                     className="object-cover object-top"

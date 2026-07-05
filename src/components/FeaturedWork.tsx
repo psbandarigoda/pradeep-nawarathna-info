@@ -13,7 +13,7 @@ export default function FeaturedWork() {
         <SectionHeading
           label="Featured Work"
           title="Stories brought to screen"
-          description="Commercials, music videos, brand films, and behind-the-scenes — directed, written, and shaped from first idea to final frame."
+          description="Commercials, music videos, brand films, and behind-the-scenes - directed, written, and shaped from first idea to final frame."
         />
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

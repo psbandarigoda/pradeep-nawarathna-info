@@ -14,7 +14,7 @@ export default function InternationalEvents() {
         <SectionHeading
           label="International Events"
           title="Major live shows, managed end to end"
-          description="International artist concerts in Sri Lanka — from production planning to show-day execution."
+          description="International artist concerts in Sri Lanka - from production planning to show-day execution."
         />
 
         <div className="grid gap-6 md:grid-cols-3">
